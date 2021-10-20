@@ -1,5 +1,5 @@
 ---
-title: West African Health Foundation Specialty Hospital
+title: WAHF Specialty Hospital
 subtitle: A New Vision for Health in West Africa
 layout: default
 modal-id: 2
@@ -10,8 +10,6 @@ alt: image-alt
 project-date: April 2013
 client: West African Health Foundation
 category: Report
-description: The Urban Design Lab (UDL) is pleased to release this report on the design options for a new regional hospital at Juaben, Ghana. By analyzing regions, cities and sites through the perspective of urban designers, we take
-advantage of those traditional architectural methodologies that address site specificity, physical form, economic constraints and construction logistics, among other considerations. In addition, we must engage ecology and health,
-among multiple urban systems at many scales. Urban Design also advocates for an interaction in “top-down” and “bottom-up” processes to accomplish projects within this complexity. In an age when cities are rapidly urbanizing, new forms and meanings are needed to design for more equitable futures.
+description: The Urban Design Lab (UDL) is pleased to release this report on the design options for a new regional hospital at Juaben, Ghana. By analyzing regions, cities and sites through the perspective of urban designers, we take advantage of those traditional architectural methodologies that address site specificity, physical form, economic constraints and construction logistics, among other considerations. In addition, we must engage ecology and health,among multiple urban systems at many scales. Urban Design also advocates for an interaction in “top-down” and “bottom-up” processes to accomplish projects within this complexity. In an age when cities are rapidly urbanizing, new forms and meanings are needed to design for more equitable futures.
 
 ---
