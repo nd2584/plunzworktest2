@@ -1,15 +1,15 @@
 ---
-title: Dreams
-subtitle: Website Design
+title: Manyatta
+subtitle: A guide to do-it-yourself infrastructure
 layout: default
 modal-id: 1
-date: 2014-07-18
-img: dreams.png
-thumbnail: dreams-thumbnail.png
+date: 2015-01-01
+img: manyatta.png
+thumbnail: manyatta-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: April 2015
+client: --
+category: Research
+description: This guide represents the work of a graduate research seminar given in the Spring 2015 at Columbia University. It engaged graduate and postgraduate students in urban design and engineering. The mandate was to fill a gap in considering the possibilities for infrastructural development in Manyatta; a gap that involves the most basic tools such that immediate concerns can be addressed by those most immediately deprived. In this regard, Manyatta is special, as an environment where residents, of dire necessity, are already developing their own skills for nurturing social capital and enterprise. What has been lacking is technical know-how needed for improving the infrastructural lifeblood that connects to houses, streets and neighborhoods.
 
 ---
