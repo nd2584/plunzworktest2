@@ -1,15 +1,23 @@
 ---
-title: Escape
-subtitle: Website Design
+title: West African Health Foundation Specialty Hospital
+subtitle: A New Vision for Health in West Africa
 layout: default
 modal-id: 2
-date: 2014-07-17
-img: escape.png
-thumbnail: escape-thumbnail.png
+date: 2013-01-01
+img: westafrica.png
+thumbnail: westafrica-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: April 2013
+client: West African Health Foundation
+category: Report
+description: The Urban Design Lab (UDL) is pleased to release this report on the design options for a new regional hospital at Juaben, Ghana. By analyzing regions, cities and sites through the perspective of urban designers, we take
+advantage of those traditional architectural methodologies that address site specificity, physical form, economic constraints and construction logistics, among other considerations. In addition, we must engage ecology and health,
+among multiple urban systems at many scales. Urban Design also advocates for an interaction in “top-down” and “bottom-up” processes to accomplish projects within this complexity. In an age when cities are rapidly urbanizing, new forms and meanings are needed to design for more equitable futures.
+
+In the final global studios within the post-graduate Urban Design Program at Columbia University’s Graduate School of Architecture, Planning and Preservation (GSAPP), student teams and faculty develop comprehensive projects incorporating the complexity of issues and multiplicity of stakeholders involved in an urban intervention. In the Spring Semester of 2013, the Urban Design Program, in collaboration with the Earth Institutes’s Millennium City Initiative (MCI), was engaged in several projects in the metropolitan region surrounding Kumasi, Ghana. As a growing city of approximately two million inhabitants, both physical and social infrastructures are under extreme pressure for development.
+
+In collaboration with our team, the West African Health Foundation (WAHF) participated with the studio as an informational resource, a critical eye and ultimately as a client. Tasked by the Foundation to design a hospital for a rural site in Juaben, 30 minutes outside of Kumasi, the studio developed the following proposal. Considering what role this new specialty hospital can play in the local, regional and international health system, the team developed a series of arguments that are outlined in this publication. Hopefully, this document will not only exist as a record of the collaboration of the urban design team and WAHF, but also as a verification of how this hospital can transform a region.
+
+The Urban Design Lab at Columbia’s Earth Institute has played an important role in defining the studio’s emphasis and in synthesizing the studio’s work into the format of this publication. We hope that the WAHF hospital project will receive the broad interest that it fully deserves and that this important initiative will come to fruition.
 
 ---
