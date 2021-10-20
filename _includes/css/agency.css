@@ -279,8 +279,8 @@ header {
 }
 
 header .intro-text {
-    padding-top: 100px;
-    padding-bottom: 50px;
+    padding-top: 50px;
+    padding-bottom: 25px;
 }
 
 header .intro-text .intro-lead-in {
@@ -658,7 +658,7 @@ aside.clients img {
 
 section#contact {
     background-color: #222;
-    background-image: url('{{ site.baseurl }}/img/map-image.png');
+    background-image: url('{{ site.baseurl }}/img/black_background.png');
     background-position: center;
     background-repeat: no-repeat;
 }
